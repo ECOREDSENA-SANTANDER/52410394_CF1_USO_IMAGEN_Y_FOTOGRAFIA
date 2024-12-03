@@ -20,7 +20,6 @@
   100%
     transform: translateY(0px)
 
-
 .fa-ul
   margin-left: 0 !important
   li
@@ -31,12 +30,25 @@
       font-size: 1.4rem        
 .bg-color-acento-contenido
   background-color: $color-acento-contenido
+.text-dark
+  color: $color-sistema-texto !important
+.w-fit
+  width: fit-content
 
-
+.banner-interno__titulo__icono i 
+  color: #FFF !important
 .bg1
   background-color: #F6F6F6
+.bg2
+  background-color: #D1B7DF  
+.bg3
+  background-color:#A470C0
+.bg4
+  background-color: #F5C662
+.bg5
+  background-color: #FCF0D7
 .bgc-1
-  //background-image: url("../assets/curso/temas/t3/fondo.png")
+  background-image: url("../assets/curso/temas/t2/bgc1.jpg")
   background-position: center
   background-size: 100% 100%
   background-repeat: no-repeat
@@ -50,7 +62,7 @@
     background-size: cover 
 
 .subt
-  background-color: #FFDF4C
+  background-color: $color-acento-contenido
   border-radius: 500px
   display: flex
   align-items: center
@@ -58,6 +70,68 @@
     width: 60px
     margin: -10px 0px
     @media (max-width: $bp-max-md)
-      width: 50px
-.w-fit
-  width: fit-content  
+      width: 50px  
+.color
+  width: 160px
+  height: 160px
+  border-radius: 500px 
+  margin: 0 auto
+  &--rojo
+    background-color: #FC0D1B
+  &--naranja
+    background-color: #FD7622
+  &--amarillo
+    background-color: #FED831
+  &--verde
+    background-color: #29FD2F
+  &--azul
+    background-color: #1CA7FC
+  &--morado
+    background-color: #8925FB
+  &--blanco
+    background-color: #FFF
+  &--negro
+    background-color: #000
+  @media (max-width: $bp-max-md)
+    width: 130px
+    height: 130px
+
+.slyder-a__bullets__item
+  background-color: rgba(255,223,76,0.35)
+  border-color: rgba(255,223,76,0.35)
+  &--active
+    background-color: $color-acento-contenido
+    border-color: $color-acento-contenido
+  @media (max-width: $bp-max-md)
+    margin: 0 5px
+.slyder-a__tipo-b .slyder-a__btn--atrs, .slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: $color-acento-botones
+  border-color: $color-acento-botones    
+  opacity: 0.9
+.img-infografica.color-acento-botones .img-infografica__item__numero
+  color: $white  
+  font-weight: 800
+.fle-circulo .slyder-f__btn i
+  font-size: 1.1rem
+  background-color: $color-acento-botones
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  color: #FFF
+  display: flex
+  justify-content: center
+  align-items: center
+.tabs-a__tab
+  background-color: $color-acento-contenido  
+  &__selected
+    .tabs-a__tab__text
+      color: $white
+.tabs-a.color-acento-botones .tabs-a__tab:hover, .tabs-a.color-acento-botones .tabs-a__tab:active, .tabs-a.color-acento-botones .tabs-a__tab:focus
+  color: $white 
+.bloque-texto-f.color-secundario:before
+  background-color: #F7D281
+.bloque-texto-f__comillas i 
+  color: #8E4DB1
+.bloque-texto-f__autor
+  text-align: left

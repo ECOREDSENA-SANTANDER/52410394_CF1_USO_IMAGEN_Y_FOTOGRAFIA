@@ -44,32 +44,59 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: '',
+        titulo: 'Edición digital de imagen',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '',
+        titulo: 'Teoría del color',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '',
+        titulo: 'Modelos de color y contraste',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '',
+        titulo: 'Modelos de color y contraste',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: '',
+        titulo: 'Elementos básicos del diseño',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Elementos conceptuales',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Elementos visuales',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Elementos de relación',
+            hash: 't_6_3',
+          },
+          {
+            numero: '6.4',
+            titulo: 'Elementos prácticos',
+            hash: 't_6_4',
+          },
+          {
+            numero: '6.5',
+            titulo: 'Interrelación de formas',
+            hash: 't_6_5',
+          },
+        ],
       },
     ],
     subMenu: [
