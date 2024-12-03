@@ -146,31 +146,95 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Teoría del color',
       referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tipo: 'Articulo',
+      link:
+        'https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/semillas/52410394_1_VIRTUAL/Material/Apoyo/Actividad_Aprendizaje1/La%20teori%CC%81a%20del%20color.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Anomalía',
+      significado: 'Algo que está fuera de lo normal o habitual.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Cromático',
+      significado: 'De los colores, o relativo a ellos.',
+    },
+    {
+      termino: 'Imagen',
+      significado: 'representación visual de algo real o imaginado.',
+    },
+    {
+      termino: 'Imagen análoga',
+      significado:
+        'Imagen conseguida mediante un proceso fotográfico tradicional.',
+    },
+    {
+      termino: 'Megapíxel (Mpx)',
+      significado: 'Equivale a un millón de pixeles.',
+    },
+    {
+      termino: 'Píxel',
+      significado:
+        'Menor unidad homogénea en color que compone la imagen digital.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Alfeo, J. (2011). Información audiovisual, elementos de la composición de la imagen. Madrid: Universidad Nacional de Educación a Distancia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Alves, L. Japiassu, R. Hetkowski, T. (2012). Trabajo colaborativo en la red. Madrid: Universidad Nacional de Educación a Distancia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Aparici, R. García A. (1989). Lectura de imágenes. Madrid: Ediciones la torre.',
+      link: '',
+    },
+    {
+      referencia:
+        'Belting, H. Vélez, G. (2007). Antropología de la imagen. Buenos Aires: Kats editores.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cuadrado, A. Romo, M. (2011). Estudio de medios comunicativos. Madrid: Universidad Nacional de Educación a Distancia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Feltrero, R. (2007). El software libre y la construcción ética de la sociedad del conocimiento. Barcelona: Icaria editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Swenson, L. (1984). Teorías del aprendizaje. Buenos Aires: Paidós.',
+      link: '',
+    },
+    {
+      referencia:
+        'Tamayo, M. (1999). Serie Aprender a Investigar. Módulo 2: La investigación. Colombia: ICFES.',
+      link: '',
+    },
+    {
+      referencia:
+        'Valera, J. (2012). Productividad digital avanzada. Universidad Nacional de Educación a Distancia. Madrid: Universidad Nacional de Educación a Distancia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Winn, W.D. (1994). Contributions of perceptual and cognitive processes to the comprehension of graphics, en Schnotz, W. y Kulhavy, R.W. (eds.). Comprehension of graphics. Advances in psychology. Amsterdam: Elsevier Science B.V. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Wong, W. (1995). Fundamentos del diseño. Madrid: Editorial Gustavo Gili.',
       link: '',
     },
   ],
@@ -184,9 +248,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -209,9 +273,9 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrolladora <em>full stack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Nombre',
