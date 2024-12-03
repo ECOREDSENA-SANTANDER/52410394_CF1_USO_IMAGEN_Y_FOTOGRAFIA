@@ -1,19 +1,63 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.6s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 60%
+    right: 78%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 62%
+    right: 3%
+  &-3
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 17%
+    right: 40%
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem        
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+
+
+.bg1
+  background-color: #F6F6F6
+.bgc-1
+  //background-image: url("../assets/curso/temas/t3/fondo.png")
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  border-radius: 30px
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+
+.subt
+  background-color: #FFDF4C
+  border-radius: 500px
+  display: flex
+  align-items: center
+  img 
+    width: 60px
+    margin: -10px 0px
+    @media (max-width: $bp-max-md)
+      width: 50px
+.w-fit
+  width: fit-content  
