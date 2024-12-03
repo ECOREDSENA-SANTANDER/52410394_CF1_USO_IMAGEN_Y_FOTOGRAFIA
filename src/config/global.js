@@ -185,57 +185,46 @@ export default {
     {
       referencia:
         'Alfeo, J. (2011). Información audiovisual, elementos de la composición de la imagen. Madrid: Universidad Nacional de Educación a Distancia.',
-      link: '',
     },
     {
       referencia:
         'Alves, L. Japiassu, R. Hetkowski, T. (2012). Trabajo colaborativo en la red. Madrid: Universidad Nacional de Educación a Distancia.',
-      link: '',
     },
     {
       referencia:
         'Aparici, R. García A. (1989). Lectura de imágenes. Madrid: Ediciones la torre.',
-      link: '',
     },
     {
       referencia:
         'Belting, H. Vélez, G. (2007). Antropología de la imagen. Buenos Aires: Kats editores.',
-      link: '',
     },
     {
       referencia:
         'Cuadrado, A. Romo, M. (2011). Estudio de medios comunicativos. Madrid: Universidad Nacional de Educación a Distancia.',
-      link: '',
     },
     {
       referencia:
         'Feltrero, R. (2007). El software libre y la construcción ética de la sociedad del conocimiento. Barcelona: Icaria editorial.',
-      link: '',
     },
     {
       referencia:
         'Swenson, L. (1984). Teorías del aprendizaje. Buenos Aires: Paidós.',
-      link: '',
     },
     {
       referencia:
         'Tamayo, M. (1999). Serie Aprender a Investigar. Módulo 2: La investigación. Colombia: ICFES.',
-      link: '',
     },
     {
       referencia:
         'Valera, J. (2012). Productividad digital avanzada. Universidad Nacional de Educación a Distancia. Madrid: Universidad Nacional de Educación a Distancia.',
-      link: '',
     },
     {
       referencia:
         'Winn, W.D. (1994). Contributions of perceptual and cognitive processes to the comprehension of graphics, en Schnotz, W. y Kulhavy, R.W. (eds.). Comprehension of graphics. Advances in psychology. Amsterdam: Elsevier Science B.V. ',
-      link: '',
     },
     {
       referencia:
         'Wong, W. (1995). Fundamentos del diseño. Madrid: Editorial Gustavo Gili.',
-      link: '',
     },
   ],
   creditos: [
@@ -258,9 +247,21 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jhon Milton Zárate Martinez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de desarrollo agroempresarial - Regional Cundinamarca',
+        },
+        {
+          nombre: 'Johana Melina Montoya Piriachi',
+          cargo: 'Asesora pedagógica',
+          centro:
+            'Centro de desarrollo agroempresarial - Regional Cundinamarca',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescun',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -268,9 +269,9 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Julián Fernando Vanegas Vega',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
@@ -278,13 +279,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Johann Sebastián Teran Carvajal',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -293,24 +289,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Andrea Ardila Chaparro',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
