@@ -62,22 +62,22 @@
                 .col-md-8
                   p El marco rectangular es una de las herramientas de selección y como su nombre lo indica cubre áreas de forma rectangular, en algunos #[em software] de edición al oprimir en el teclado “#[em shift]” y arrastrar la selección esta se hace en forma de cuadrado. En este menú también encontramos un marco elíptico y en algunos #[em software] un maco de fila y de columna. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider1-1.png', alt='En la figura se presentan los iconos de las herramientas mencionadas los cuales son figuras punteadas: un rectángulo, un ovalo, una línea horizontal y una línea vertical respectivamente.')
+                  img(src='@/assets/curso/temas/t2/slider1-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Mover es la herramienta que nos sirve para cambiar de ubicación de manera rápida el contenido de nuestras capas de trabajo. Basta con seleccionarla y hacer clic en el elemento que deseamos mover, para así desplazarlo al lugar que queramos. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider1-2.png', alt='La figura presenta el icono de la herramienta: una flecha seguida de un signo +.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider1-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p El lazo sirve para hacer una selección a mano alzada, sin embargo, en ocasiones se encuentran otros tipos de lazo más precisos como el poligonal en el que se van marcando puntos para crear la selección, y el magnético que va generando puntos en las zonas donde hay un cambio de color brusco. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider1-3.png', alt='La figura presenta los iconos de las herramientas mencionadas: un lazo en forma ovalada y dos lazos más con formas irregulares.')
+                  img(src='@/assets/curso/temas/t2/slider1-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p La herramienta varita mágica y selección rápida sirven para seleccionar grandes porciones de una imagen en las que hay una zona de color similar, su uso depende de la precisión en cada caso específico. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider1-4.png', alt='La figura presenta los iconos de las herramientas mencionadas, la primera es un pincel sobre un rectángulo punteado, la segunda es una varita mágica.')
+                  img(src='@/assets/curso/temas/t2/slider1-4.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -93,7 +93,7 @@
               .col-md-8
                 p La herramienta recortar sirve para cambiar el tamaño del área en la que estamos trabajando. Sector sirve para crear un corte imaginario que se va a materializar cuando exportemos una imagen grande en muchas pequeñas según los “n” sectores que la dividamos. Seleccionar sector sirve para lo indicado por su nombre. 
               .col-md-4.col-lg-3.col-9
-                img(src='@/assets/curso/temas/t2/slider2-1.png', alt='La figura presenta los iconos de las herramientas mencionadas: un cuadrado, un cuchillo y un cuchillo con una flecha respectivamente.')
+                img(src='@/assets/curso/temas/t2/slider2-1.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -109,7 +109,7 @@
               .col-md-8
                 p La herramienta cuentagotas sirve para obtener el color exacto de un píxel en la imagen, muestra de color toma hasta cuatro puntos como guía, regla nos da la medida en pixeles de un punto a otro y su grado de inclinación, notas como su ícono lo presenta son hijitas como los “#[em post it]” para escribir recordatorios y recuento nos sirve para colocar números guía en el área de trabajo. 
               .col-md-4.col-lg-3.col-9
-                img.w-75.m-auto(src='@/assets/curso/temas/t2/slider3-1.png', alt='La figura presenta los diferentes iconos de las herramientas de medida mencionadas, respectivamente son: un goterero, un goterero con una pequeña estrella a un lado, una regla, un "post it" y los números 1.2 y 3 para la ultima herramienta mencionada.')
+                img.w-75.m-auto(src='@/assets/curso/temas/t2/slider3-1.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -126,27 +126,27 @@
                 .col-md-8
                   p El pincel corrector puntual y el pincel corrector son diferentes opciones de corrección que copian las características de una zona de la imagen para tratar de reproducirla en otra. El parche sirve para lo mismo, pero genera una selección como la del lazo, incluso se puede utilizar después de hacer una selección de cualquier tipo. El pincel de ojos rojos sirve para disminuir este efecto producido por el #[em flash]. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider4-1.png', alt='La figura presenta los iconos de las herramientas de retoque mencionadas: un pincel sobre un rectángulo punteado, un pincel, un parche y un ojo con un "+" a un lado.')
+                  img(src='@/assets/curso/temas/t2/slider4-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p El tampón de clonar es una de las herramientas más antiguas y prácticas de los editores de imágenes y sirve para reproducir una zona de una imagen en otro lugar, el tampón de motivo hace lo mismo, pero con una textura determinada. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider4-2.png', alt='Los iconos que presenta la imagen son: un sello y un sello con una pequeña estrella en un costado.')
+                  img(src='@/assets/curso/temas/t2/slider4-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p El borrador tiene tres clases diferentes, el normal que borra todo excepto las capas de fondo, esto debido a que esas capas generalmente están protegidas, para eso está el borrador de fondos. Por últimos está el borrador mágico que borra similar a como funciona la varita mágica, toma un color y lo desaparece. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider4-3.png', alt='Los iconos que se presentan en la figura son: un borrador, un borrador con unas pequeñas tijeras a un costado, un borrador con una estrella a un costado.')
+                  img(src='@/assets/curso/temas/t2/slider4-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-9
                   p En este menú hay tres opciones, una para desenfocar o volver borrosa una imagen, una para enfocar que causa el efecto contrario y la herramienta dedo, que genera un efecto parecido al de utilizar el dedo para correr la pintura en un lienzo. 
                 .col-md-4.col-lg-2.col-9
-                  img.m-auto(src='@/assets/curso/temas/t2/slider4-4.png', alt='La figura presenta los iconos de las herramientas mencionadas: una gota, un triangulo y una pequeña mano señalando con el dedo índice.')
+                  img.m-auto(src='@/assets/curso/temas/t2/slider4-4.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Sobreexponer se utiliza para aclarar las zonas de la imagen que deseemos, subexponer logra el efecto contrario, oscureciendo los sectores donde lo apliquemos y esponja desatura (convierte en grises) gradualmente la zona de la imagen donde se utilice. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider4-5.png', alt='La figura presenta los iconos de las herramientas mencionadas: una lupa, una pequeña mano haciendo un cirulo con los dedos y una esponja.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider4-5.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -163,17 +163,17 @@
                 .col-md-8
                   p Pincel como su nombre lo indica sirve para esparcir un color como si fuera una pintura, lápiz sirve para lo mismo pero el trazo es más tosco, sustitución de color es un pincel que da el tono del nuevo color, conservando las sombras luminosas de la imagen original, finalmente el pincel mezclador actúa como un gotero tomando una parte de la imagen y luego la difumina con el resto de la imagen. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider5-1.png', alt='Se presentan los iconos de la herramientas mencionadas: un pincel, un lápiz, un pincel con un rectángulo a un costado y un pincel con  una pequeña gota en un costado.')
+                  img(src='@/assets/curso/temas/t2/slider5-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p El pincel de historia deshace cualquier acción hecha con alguno de los pinceles, deja la imagen tal como se encontraba originalmente, el pincel histórico hace unos trazos especiales tomando los colores de la zona donde se aplica y crea transformaciones.  
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider5-2.png', alt='La figura presenta los iconos de las herramientas mencionadas: un pincel sobre un ovalo punteado y un pincel sobre una paleta de colores.')
+                  img(src='@/assets/curso/temas/t2/slider5-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p El bote de pintura se utiliza para rellenar un área determinada de un color, este se esparce por una zona de color similar. El degradado colorea toda una capa con un gradiente de color, inicialmente toma los colores de fondo y frontal, pero también se pueden editar o incluso colocar muchos más colores al tiempo y modificar la transparencia por color y la forma del gradiente. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider5-3.png', alt='La figura presenta los iconos de las herramientas mencionadas: un rectángulo coloreado en degradé y un bote de pintura.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider5-3.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -190,22 +190,22 @@
                 .col-md-8
                   p La pluma es una herramienta muy útil para crear gráficos, permite generar formas vectorialmente y las demás herramientas hermanas complementan su trabajo al permitir editar algo creado con ella.
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider6-1.png', alt='En la figura se presentan los iconos de las herramientas mencionadas: una pluma, una pluma sobre una línea, una pluma con un "+" a un costado, una pluma con un "-" al costado y un triangulo.')
+                  img(src='@/assets/curso/temas/t2/slider6-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Con las herramientas de texto se puede hacer de manera horizontal o vertical, las máscaras de texto crean un texto en forma de selección, esto sirve para convertir una zona de la imagen en texto, crear una textura o diferentes efectos. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider6-2.png', alt='En la figura se presentan los iconos de las herramientas mencionadas: una T, una T con una pequeña flecha vertical en un costado, una T punteada y una T punteada con una pequeña flecha vertical a un costado.')
+                  img(src='@/assets/curso/temas/t2/slider6-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Estas herramientas sirven para hacer selección a formas creadas con la pluma, para de esta manera lograr editarlas en el momento que se requiera. Selección de trazado como lo indica su nombre, selecciona todo el trazado, mientras la selección directa permite seleccionar los nodos que uno desee. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider6-3.png', alt='La figura presenta un par de flechas, la primera en color gris y la segunda sin color.')
+                  img(src='@/assets/curso/temas/t2/slider6-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Entre las herramientas de dibujo tenemos las opciones de crear, rectángulo, rectángulo con las esquinas redondeadas, elipse, polígonos con diferentes números de lados o estrellas de igual forma, líneas y varias formas personalizadas. 
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider6-4.png', alt='La figura presenta los iconos de las herramientas mencionadas: un rectángulo, un rectángulo con las puntas redondeadas, una elipse, un polígono, una línea y  una forma irregular.')
+                  img(src='@/assets/curso/temas/t2/slider6-4.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -222,22 +222,22 @@
                 .col-md-8
                   p Estas herramientas no son muy comunes en el editor de imágenes, sirven para hacer desplazamientos, rotaciones, movimientos, escalamientos; todo aplicado a archivos de objetos modelados en 3D, de lo contrario no están activas. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-1.png', alt='En la figura se presentan los iconos de las herramientas mencionadas: una fecha en circulo, una flecha alrededor de un circulo, una flecha con 4 puntas, cuatro flechas unidas y un cubo.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Al igual que las herramientas de rotación y demás 3D, estas solo funcionan en modelos tridimensionales. Hay herramientas para rotar, desplazar, panorámicas, recorridos y zoom; todos movimientos de la cámara.  
                 .col-md-4.col-lg-3.col-9
-                  img(src='@/assets/curso/temas/t2/slider7-2.png', alt='En la figura se presentan los iconos de las herramientas mencionadas: una fecha en rotación, una flecha alrededor en circulo, una flecha con 4 puntas con una pequeña cámara en un costado, cuatro flechas unidas con una pequeña cámara en un costado y una cámara simulando un zoom con dos líneas.')
+                  img(src='@/assets/curso/temas/t2/slider7-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p La herramienta mano, se utiliza para desplazarse en la pantalla cuando tenemos zoom muy grande, por ejemplo, cuando la vista de la imagen es tan grande que no cabe en la pantalla. Rotar vista es una herramienta que no todos los programas tienen, pero es muy curiosa, ya que rota el escenario completamente, sin alterar su derecho, pues lo hace solo como una visualización.  
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-3.png', alt='La figura presenta los iconos de las herramientas mencionadas: una mano y una mano sobre un cuadrado con una flecha simulando rotación.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Esta es una de las herramientas fundamentales en el trabajo de ediciones de imágenes, pues nos permite acercarnos a las zonas en las que queremos lograr un detalle más fino, evitando quedarnos ciegos o golpear nuestro rostro con el monitor del computador. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-4.png', alt='La figura presenta el ícono de la herramienta mencionada: una lupa.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-4.png', alt='')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -254,12 +254,12 @@
                 .col-md-8
                   p En este panel se configuran los colores frontales y de fondo. Al hacer clic en ellos, aparece el selector de color para cambiarlos, al hacer clic en la flecha curva (X) los invierte de posición y al hacer clic en los pequeños cuadros (D) de la esquina, sin importar los colores que haya volvemos a los predeterminados. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider8-1.png', alt='En la figura se presenta el icono de la herramienta, el cual consiste en dos cuadrados superpuestos, uno blanco y uno negro.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider8-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Esta herramienta funciona para hacer selección de manera rápida, al hacer clic en ella podemos trabajar con el borrador o el pincel para seleccionar o deseleccionar respectivamente un área en nuestra imagen, el área en la que usamos el borrador se verá roja con transparencia, lo demás se ve transparente, al pasar el pincel sobre un área roja pareciera borrarla, al hacer clic nuevamente en la herramienta notaremos que el rojo es lo opuesto a nuestra selección. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider8-2.png', alt='El icono presentado en la figura es un rectángulo con un circulo adentro.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider8-2.png', alt='')
 
 
 
