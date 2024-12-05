@@ -38,7 +38,7 @@
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Azul
         p Es un color que da la sensación de distante, se relaciona con la confianza, reserva, armonía, afecto, amistad, fidelidad y amor. La sensación que logra este color eleva la presión de la sangre por contracción de las arterias. Para las personas emotivas este color puede resultar más tranquilizante que el color verde.
-        p Abre la mente brindando paz y tranquilidad a las personas, favorece la paciencia, amabilidad y serenidad, aunque una sobre exposición al mismo puede causar también fatiga o depresión. En el mundo de la publicidad lo asocian con productos de tecnología, limpieza o también objetos d alta precisión. Este es un color muy masculino, recibido de buen grado por los hombres, razón por la que en general los artículos de este tipo de mercado lo utilizan bastante. Poco recomendado para productos de comida, pues este color da la sensación de poco apetito.
+        p Abre la mente brindando paz y tranquilidad a las personas, favorece la paciencia, amabilidad y serenidad, aunque una sobre exposición al mismo puede causar también fatiga o depresión. En el mundo de la publicidad lo asocian con productos de tecnología, limpieza o también objetos de alta precisión. Este es un color muy masculino, recibido de buen grado por los hombres, razón por la que en general los artículos de este tipo de mercado lo utilizan bastante. Poco recomendado para productos de comida, pues este color da la sensación de poco apetito.
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--morado.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3

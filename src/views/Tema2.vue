@@ -146,7 +146,7 @@
                 .col-md-8
                   p Sobreexponer se utiliza para aclarar las zonas de la imagen que deseemos, subexponer logra el efecto contrario, oscureciendo los sectores donde lo apliquemos y esponja desatura (convierte en grises) gradualmente la zona de la imagen donde se utilice. 
                 .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider4-5.png', alt='la figura presenta los iconos de las herramientas mencionadas: una lupa, una pequeña mano haciendo un cirulo con los dedos y una esponja.')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider4-5.png', alt='La figura presenta los iconos de las herramientas mencionadas: una lupa, una pequeña mano haciendo un cirulo con los dedos y una esponja.')
 
 
     .subt.w-fit.mb-4(data-aos="fade-right")
@@ -242,7 +242,7 @@
 
     .subt.w-fit.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/subt.png', alt='')
-      h3.p-2.pe-5.mb-0 Sector de color y de mascaras
+      h3.p-2.pe-5.mb-0 Sector de color y de máscaras
 
     .row.bgc-1.align-items-center.p-4.py-5.mb-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-5.px-4

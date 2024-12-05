@@ -40,7 +40,7 @@
       .col-lg-12
         .titulo-sexto.color-primario.mb-3
           h5 Figura 7.
-          span Aplicación para gamas de colores.
+          span Aplicación para gamas de colores
         figure
           img.mb-2(src='@/assets/curso/temas/t3/fig7.png', alt='En la figura se presenta la interfaz de una aplicación para mezclar los colores.')
         figcaption Fuente: SENA
