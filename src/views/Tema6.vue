@@ -66,28 +66,28 @@
     SlyderF.fle-circulo(columnas="col-lg-4 col-md-6" data-aos="fade-down")
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
-          .col-lg-8.col-md-6.col-5
+          .col-lg-8.col-md-7.col-7
             img.py-4(src='@/assets/curso/temas/t6/tarj2-1.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Forma
         p.mb-0 Es lo que puede ser visto. Aporta la identificación principal de la percepción.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
-          .col-lg-8.col-md-6.col-5
+          .col-lg-8.col-md-7.col-7
             img.py-4(src='@/assets/curso/temas/t6/tarj2-2.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Medida
         p.mb-0 Toda forma tiene un tamaño, magnitud. Es físicamente mesurable.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
-          .col-lg-8.col-md-6.col-5
+          .col-lg-8.col-md-7.col-7
             img.py-4(src='@/assets/curso/temas/t6/tarj2-3.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Color
         p.mb-0 Se define el color como una distinción de una forma con sus cercanías.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
-          .col-lg-8.col-md-6.col-5
+          .col-lg-8.col-md-7.col-7
             img.py-4(src='@/assets/curso/temas/t6/tarj2-4.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Textura
@@ -117,7 +117,7 @@
         p.mb-0 Relación de la forma respecto al cuadro, al espacio o a la estructura del diseño.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
-          .col-lg-5.col-md-6.col-5
+          .col-lg-5.col-md-4.col-4
             img(src='@/assets/curso/temas/t6/tarj3-3.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Espacio
@@ -142,21 +142,21 @@
         SlyderF.fle-circulo(columnas="col-lg-6 col-md-6")
           .tarjeta.bg2.p-4.text-center
             .row.justify-content-center.mb-4
-              .col-lg-3.col-md-6.col-5
+              .col-lg-3.col-md-4.col-3
                 img(src='@/assets/curso/temas/t6/tarj4-1.svg', alt='')
-            .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
+            .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.px-md-4.mb-3
               h4.mb-0 Representación
             p.mb-0 Cuando la forma deriva de la naturaleza o del mundo humano.
           .tarjeta.bg2.p-4.text-center
             .row.justify-content-center.mb-4
-              .col-lg-5.col-md-6.col-5
+              .col-lg-5.col-md-6.col-4
                 img(src='@/assets/curso/temas/t6/tarj4-2.svg', alt='')
             .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
               h4.mb-0 Significado
             p.mb-0 Cuando el diseño trasmite un mensaje.
           .tarjeta.bg2.p-4.text-center
             .row.justify-content-center.mb-4
-              .col-lg-6.col-md-6.col-5
+              .col-lg-6.col-md-6.col-4
                 img.px-lg-3(src='@/assets/curso/temas/t6/tarj4-3.svg', alt='')
             .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
               h4.mb-0 Función
@@ -174,7 +174,7 @@
         .row.justify-content-center.mb-4
           .col-lg-8.col-md-6.col-5.h75
             img(src='@/assets/curso/temas/t6/tarj6-1.svg', alt='')
-        .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
+        .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.px-md-4.mb-3
           h4.mb-0 Distanciamiento
         p.mb-0 Se refiere a elementos que se encuentran separados o están cercanos.
       .tarjeta.bg2.p-4.text-center
