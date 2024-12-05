@@ -138,10 +138,10 @@
                 .col-md-4.col-lg-3.col-9
                   img(src='@/assets/curso/temas/t2/slider4-3.png', alt='Los iconos que se presentan en la figura son: un borrador, un borrador con unas pequeñas tijeras a un costado, un borrador con una estrella a un costado.')
               .row.justify-content-center.align-items-center.pt-lg-5
-                .col-md-8
+                .col-md-9
                   p En este menú hay tres opciones, una para desenfocar o volver borrosa una imagen, una para enfocar que causa el efecto contrario y la herramienta dedo, que genera un efecto parecido al de utilizar el dedo para correr la pintura en un lienzo. 
-                .col-md-4.col-lg-3.col-9
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/slider4-4.png', alt='La figura presenta los iconos de las herramientas mencionadas: una gota, un triangulo y una pequeña mano señalando con el dedo índice.')
+                .col-md-4.col-lg-2.col-9
+                  img.m-auto(src='@/assets/curso/temas/t2/slider4-4.png', alt='La figura presenta los iconos de las herramientas mencionadas: una gota, un triangulo y una pequeña mano señalando con el dedo índice.')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
                   p Sobreexponer se utiliza para aclarar las zonas de la imagen que deseemos, subexponer logra el efecto contrario, oscureciendo los sectores donde lo apliquemos y esponja desatura (convierte en grises) gradualmente la zona de la imagen donde se utilice. 
