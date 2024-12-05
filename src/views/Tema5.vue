@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Modelos de color y contraste
+      h1 Psicología del color
 
     p.mb-4 La percepción de los colores es un efecto físico que se genera en el ojo respecto a las distintas ondas del espectro electromagnético y la interpretación que se genera en el cerebro. Los colores son fundamentales y están siempre presentes desde el momento que usted se levanta en la mañana hasta que se acuesta en la noche; están para donde quiera que se mire y en cada cosa que se conoce, incluso la ausencia de color tiene nombre, el color negro. En la publicidad y el mercadeo los colores son muy tenidos en cuenta, ya que esto puede ayudar a una marca a despertar ciertas sensaciones en sus posibles clientes. Aunque la psicología del color está sujeta a la cultura, se pueden tener en cuenta los siguientes aspectos generales.
 

@@ -62,7 +62,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Modelos de color y contraste',
+        titulo: 'Psicología del color',
         desarrolloContenidos: true,
       },
       {
@@ -147,8 +147,8 @@ export default {
   complementario: [
     {
       tema: 'Teoría del color',
-      referencia: '',
-      tipo: 'Articulo',
+      referencia: 'Johannes Itten. (s,f) Teoría del color.',
+      tipo: 'Artículo',
       link:
         'https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/semillas/52410394_1_VIRTUAL/Material/Apoyo/Actividad_Aprendizaje1/La%20teori%CC%81a%20del%20color.pdf',
     },
@@ -233,12 +233,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -260,7 +260,7 @@ export default {
         },
         {
           nombre: 'Carolina Jiménez Suescun',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -270,7 +270,7 @@ export default {
       autores: [
         {
           nombre: 'Julián Fernando Vanegas Vega',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -280,7 +280,7 @@ export default {
         },
         {
           nombre: 'Johann Sebastián Teran Carvajal',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y producción audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

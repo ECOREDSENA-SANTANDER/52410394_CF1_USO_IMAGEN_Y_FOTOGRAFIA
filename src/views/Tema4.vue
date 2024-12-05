@@ -44,7 +44,7 @@
     TabsA.color-acento-botones(data-aos="fade-down")
       .tarjeta.bg5.p-4(titulo="El color en sí mismo")
         h4 El color en sí mismo
-        p.mb-0 Cuando el contraste se realiza con el amarillo, azul y rojo, es el contraste más fuerte que se puede hacer. A medida que se incorporan colores secundarios como el verde, el naranja o el morado este contraste baja su fuerza, y así con los colores terciarios o demás tonos de color. Para hacer un correcto uso de este tipo de contraste se requiere al menos utilizar tres colores que sean marcadamente diferenciados.
+        p.mb-0 Este contraste se obtiene al combinar los colores puros o colores primarios. Cuando el contraste se realiza con el amarillo, azul y rojo, es el contraste más fuerte que se puede hacer. A medida que se incorporan colores secundarios como el verde, el naranja o el morado este contraste baja su fuerza, y así con los colores terciarios o demás tonos de color. Para hacer un correcto uso de este tipo de contraste se requiere al menos utilizar tres colores que sean marcadamente diferenciados.
       .tarjeta.bg5.p-4(titulo="Claro – oscuro")
         h4 Claro – oscuro
         p.mb-0 El blanco y el negro son los tonos más fuertes en la gama cromática, son bastante expresivos y deben utilizarse con especial cuidado, son polos opuestos pero entre ellos se extiende toda una gama de tonos de grises. Así mismo, se pueden obtener diferentes tonalidades de algún color determinado manejando de esta manera un contraste claro – oscuro.

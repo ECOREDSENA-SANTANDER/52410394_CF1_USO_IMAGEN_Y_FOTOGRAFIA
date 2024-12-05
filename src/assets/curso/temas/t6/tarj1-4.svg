@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="77" viewBox="0 0 120 77">
+  <g id="Grupo_1102999" data-name="Grupo 1102999" transform="translate(-1055.051 -1698)">
+    <g id="Grupo_1102966" data-name="Grupo 1102966" transform="translate(14 6)">
+      <g id="Rectángulo_402986" data-name="Rectángulo 402986" transform="translate(1044.051 1726)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <rect width="81" height="43" stroke="none"/>
+        <rect x="1" y="1" width="79" height="41" fill="none"/>
+      </g>
+      <g id="Rectángulo_402987" data-name="Rectángulo 402987" transform="translate(1078.051 1695)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <rect width="81" height="43" stroke="none"/>
+        <rect x="1" y="1" width="79" height="41" fill="none"/>
+      </g>
+      <line id="Línea_987" data-name="Línea 987" y1="30" x2="34" transform="translate(1044.551 1696)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2"/>
+      <line id="Línea_988" data-name="Línea 988" y1="31" x2="33" transform="translate(1125.051 1696)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2"/>
+      <line id="Línea_989" data-name="Línea 989" y1="31" x2="34" transform="translate(1124.551 1736.5)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2"/>
+      <line id="Línea_990" data-name="Línea 990" y1="31" x2="34" transform="translate(1045.551 1736.5)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="2"/>
+      <circle id="Elipse_11504" data-name="Elipse 11504" cx="4.5" cy="4.5" r="4.5" transform="translate(1152.051 1693)" fill="#12263f"/>
+      <circle id="Elipse_11507" data-name="Elipse 11507" cx="4.5" cy="4.5" r="4.5" transform="translate(1120.051 1723)" fill="#12263f"/>
+      <circle id="Elipse_11506" data-name="Elipse 11506" cx="4.5" cy="4.5" r="4.5" transform="translate(1041.051 1722)" fill="#12263f"/>
+      <circle id="Elipse_11505" data-name="Elipse 11505" cx="4.5" cy="4.5" r="4.5" transform="translate(1075.051 1692)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
