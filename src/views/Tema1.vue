@@ -13,8 +13,8 @@
       img(src='@/assets/curso/temas/t1/subt.png', alt='')
       h3.p-2.pe-5.mb-0 La imagen impresa y la imagen digital
 
-    p.mb-4 Al observar detalladamente una imagen sobre un medio impreso, se evidencia que está construida por una infinidad de pequeños puntos de tinta, lo cual no se nota al ver de lejos. De la misma manera las imágenes digitales están compuestas por muchos puntos, en este caso llamados pixeles. La diferencia más grande entre estas dos clases de imágenes es que los puntos de las impresas son redondos mientras que en las digitales son cuadrados, en cada caso estos son la unidad mínima de color que puede componer una imagen.
-
+    p.mb-4 Al observar detalladamente una imagen sobre un medio impreso, se evidencia que está construida por una infinidad de pequeños puntos de tinta, lo cual no se nota al ver de lejos. De la misma manera, las imágenes digitales están compuestas por muchos puntos, en este caso llamados píxeles. La diferencia más grande entre estas dos clases de imágenes es que los puntos de las impresas son redondos, mientras que en las digitales son cuadrados, en cada caso, estos son la unidad mínima de color que puede componer una imagen.
+    
     .row(data-aos="fade-down")
       .col-lg-5.col-md-10.mb-4
         .titulo-sexto.color-primario.mb-3
@@ -42,9 +42,9 @@
           img(src='@/assets/curso/temas/t1/subt.png', alt='')
           h3.p-2.pe-5.mb-0 Píxel
         p La palabra píxel tiene como origen un vocablo inglés y nació como acrónimo de “#[em picture & element]” (en español imagen y elemento), y es un término empleado en el ambiente informático para indicar la unidad más pequeña que puede tener una imagen.
-        p Estos pixeles se agrupan en unidades llamadas #[em byte], las cuales están compuestas cada una por 8 #[em bits]. De esta forma, para una imagen de 1 #[em byte] se dispone de 28 colores, lo que da un total de 256 colores.
+        p Estos píxeles se agrupan en unidades llamadas #[em byte], las cuales están compuestas cada una por 8 #[em bits]. De esta forma, para una imagen de 1 #[em byte] se dispone de 28 colores, lo que da un total de 256 colores.
         p Las imágenes que mayor profundidad de color tienen son aquellas de 3 #[em bytes] o 24 #[em bits], ya que estas ofrecen 16.277.216 colores y son conocidas como imágenes de color verdadero.
-        p También existe el término megapíxel, el cual hace referencia a un millón de pixeles y hoy en día es bastante utilizado para indicar la resolución de las cámaras de fotografía digitales.
+        p También existe el término megapíxel, el cual hace referencia a un millón de píxeles y hoy en día es bastante utilizado para indicar la resolución de las cámaras de fotografía digitales.
       .col-lg-4.col-md-6.col-8(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/img1.png', alt='')
 

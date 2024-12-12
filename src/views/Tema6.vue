@@ -40,14 +40,14 @@
             img(src='@/assets/curso/temas/t6/tarj1-2.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Línea
-        p.mb-0 Cuando un punto se mueve su recorrido se transforma en una línea. Tiene largo, pero no ancho. Tiene posición y dirección, está limitada por dos puntos. Forma los bordes de un plano.
+        p.mb-0 Cuando un punto se mueve, su recorrido se transforma en una línea. Tiene largo, pero no ancho. Tiene posición y dirección, está limitada por dos puntos. Forma los bordes de un plano.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
           .col-lg-6.col-md-6.col-5.h75
             img(src='@/assets/curso/temas/t6/tarj1-3.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Plano
-        p.mb-0 Es el recorrido de una línea en movimiento. Tiene largo y ancho, pero no tiene grosor. Tiene posición y dirección. Esta limitado por líneas. Define los límites extremos de un volumen.
+        p.mb-0 Es el recorrido de una línea en movimiento. Tiene largo y ancho, pero no tiene grosor. Tiene posición y dirección. Está limitado por líneas. Define los límites extremos de un volumen.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
           .col-lg-6.col-md-6.col-5.h75
@@ -61,7 +61,7 @@
     #t_6_2.titulo-segundo.color-primario(data-aos='fade-right')
       h2 6.2.  Elementos visuales
 
-    p Cuando los elementos conceptuales se hacen visibles tienen forma, color, medida y textura.
+    p Cuando los elementos conceptuales se hacen visibles, tienen forma, color, medida y textura.
 
     SlyderF.fle-circulo(columnas="col-lg-4 col-md-6" data-aos="fade-down")
       .tarjeta.bg2.p-4.text-center
@@ -77,7 +77,7 @@
             img.py-4(src='@/assets/curso/temas/t6/tarj2-2.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Medida
-        p.mb-0 Toda forma tiene un tamaño, magnitud. Es físicamente mesurable.
+        p.mb-0 Toda forma tiene un tamaño y magnitud. Es físicamente mesurable.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
           .col-lg-8.col-md-7.col-7
@@ -98,7 +98,7 @@
     #t_6_3.titulo-segundo.color-primario(data-aos='fade-right')
       h2 6.3.  Elementos de relación
 
-    p Este tipo de elementos toman en cuenta la ubicación y la interrelación de formas en un diseño. 
+    p Este tipo de elementos toma en cuenta la ubicación y la interrelación de formas en un diseño. 
 
     SlyderF.fle-circulo(columnas="col-lg-4 col-md-6" data-aos="fade-down")
       .tarjeta.bg2.p-4.text-center
@@ -121,7 +121,7 @@
             img(src='@/assets/curso/temas/t6/tarj3-3.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Espacio
-        p.mb-0 Se refiere al estar ocupado o vacío. Puede ser liso ilusorio o sugerir profundidad.
+        p.mb-0 Se refiere al estar ocupado o vacío. Puede ser liso, ilusorio o sugerir profundidad.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
           .col-lg-8.col-md-6.col-5
@@ -135,7 +135,7 @@
     #t_6_4.titulo-segundo.color-primario(data-aos='fade-right')
       h2 6.4.  Elementos prácticos
     
-    p Este tipo de elementos toman en cuenta la ubicación y la interrelación de formas en un diseño. 
+    p Este tipo de elementos toma en cuenta la ubicación y la interrelación de formas en un diseño. 
 
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-8
@@ -183,7 +183,7 @@
             img(src='@/assets/curso/temas/t6/tarj6-2.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Toque
-        p.mb-0 Esta característica se presenta cuando el espacio que separa los elementos queda anulado.
+        p.mb-0 Esta característica se presenta cuando el espacio que separa a los elementos queda anulado.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
           .col-lg-5.col-md-6.col-5.h75
@@ -197,7 +197,7 @@
             img(src='@/assets/curso/temas/t6/tarj6-4.svg', alt='')
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Penetración
-        p.mb-0 Produce la misma sensación que la superposición, con la diferencia que ambos elementos quedan transparentes en la zona del cruce.
+        p.mb-0 Produce la misma sensación que la superposición, con la diferencia de que ambos elementos quedan transparentes en la zona del cruce.
       .tarjeta.bg2.p-4.text-center
         .row.justify-content-center.mb-4
           .col-lg-6.col-md-6.col-5.h75

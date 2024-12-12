@@ -18,9 +18,9 @@
           img.mb-2(src='@/assets/curso/temas/t2/fig3.png', alt='En la imagen se aprecia la manera en que mejoran las imágenes con el proceso de vectorización.')
         figcaption Fuente: SENA
       .col-lg-8
-        p Los tipos de imágenes se pueden dividir en dos clases: #[em bitmap] o mapas de #[em bits] y vectores. Las primeras son una malla de millones de pixeles en la que no se pueden hacer cambios drásticos de tamaño, pues cada uno de esos puntos al transformarse será reinterpretado como una zona de color y el computador solamente aproximará el resultado, razón por la que se “pixelan” las imágenes o pierden calidad. Al contrario, los vectores, son un formato construido matemáticamente y esto permite que, al cambiar tamaño, una ecuación (invisible para el usuario) nuevamente genere la gráfica con la misma calidad que la inicial. Generalmente las fotografías son #[em bitmap] y las ilustraciones son vectores, el #[em software] para editar cada tipo de imagen es diferente.
+        p Los tipos de imágenes se pueden dividir en dos clases: #[em bitmap] o mapas de #[em bits] y vectores. Las primeras son una malla de millones de píxeles en la que no se pueden hacer cambios drásticos de tamaño, pues cada uno de esos puntos al transformarse será reinterpretado como una zona de color y el computador solamente aproximará el resultado, razón por la que se “píxelan” las imágenes o pierden calidad. Al contrario, los vectores, son un formato construido matemáticamente y esto permite que, al cambiar tamaño, una ecuación (invisible para el usuario) nuevamente genere la gráfica con la misma calidad que la inicial. Generalmente las fotografías son #[em bitmap] y las ilustraciones son vectores, el #[em software] para editar cada tipo de imagen es diferente.
 
-    p.mb-5 Los formatos de imagen más utilizados son #[em JPG], #[em PNG] y #[em GIF]. El #[em JPG] se utiliza la mayor parte del tiempo gracias a su tamaño comprimido y excelente calidad de imagen, es empleado para almacenar fotografías y texturas de imagen. El #[em PNG], también de excelente calidad, se utiliza cuando una imagen debe llevar trasparencia en alguno de sus sectores y el #[em GIF], con el tiempo menos utilizado, permite hacer pequeñas animaciones para uso en la web. Otros formatos de imagen como el #[em TIFF] o el #[em RAW] son empleados para guardar imágenes o fotografías de altísima calidad, empleados casi siempre en procesos de impresión a gran escala o #[em backups]. Los #[em software] comerciales más conocidos para edición de imagen son Adobe Photoshop y Corel #[em photopaint]. También se puede encontrar algún #[em software] libre como Gimp y otros para trabajar en línea. En general los programas de edición de imagen traen las mismas herramientas de edición y manejan iconografías similares.
+    p.mb-5 Los formatos de imagen más utilizados son #[em JPG], #[em PNG] y #[em GIF]. El #[em JPG] se utiliza la mayor parte del tiempo gracias a su tamaño comprimido y excelente calidad de imagen, es empleado para almacenar fotografías y texturas de imagen. El #[em PNG], también de excelente calidad, se utiliza cuando una imagen debe llevar trasparencia en alguno de sus sectores y el #[em GIF], con el tiempo menos utilizado, permite hacer pequeñas animaciones para uso en la web. Otros formatos de imagen como el #[em TIFF] o el #[em RAW] son empleados para guardar imágenes o fotografías de altísima calidad, empleados casi siempre en procesos de impresión a gran escala o #[em backups]. Los #[em software] comerciales más conocidos para edición de imagen son Adobe Photoshop y Corel #[em Photo-Paint]. También se puede encontrar algún #[em software] libre como Gimp y otros para trabajar en línea. En general los programas de edición de imagen traen las mismas herramientas de edición y manejan iconografías similares.
 
     .titulo-sexto.color-primario.mb-3
       h5 Figura 4.
@@ -35,7 +35,7 @@
       img(src='@/assets/curso/temas/t1/subt.png', alt='')
       h3.p-2.pe-5.mb-0 Uso de herramientas de edición
 
-    p.mb-4 Este menú fue tomado de la versión CS5 de adobe Photoshop®, sin embargo, todos los editores de imágenes tienen un menú con opciones muy similares, unos más profesionales que otros, pero en esencia brindan los mismos servicios. En este caso se pueden dividir las herramientas en grupos según su uso, se tienen por ejemplo las herramientas de selección, herramientas para cortar y sectorizar, herramientas de medida, herramientas para retocar, herramientas de pintura, herramientas de dibujo y texto, herramientas de navegación y los selectores de color y máscaras; cada herramienta puede tener sub-herramientas similares. 
+    p.mb-4 Este menú fue tomado de la versión CS5 de Adobe Photoshop®, sin embargo, todos los editores de imágenes tienen un menú con opciones muy similares, unos más profesionales que otros, pero en esencia brindan los mismos servicios. En este caso se pueden dividir las herramientas en grupos según su uso, se tienen por ejemplo las herramientas de selección, herramientas para cortar y sectorizar, herramientas de medida, herramientas para retocar, herramientas de pintura, herramientas de dibujo y texto, herramientas de navegación y los selectores de color y máscaras; cada herramienta puede tener sub-herramientas similares. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-6.col-md-9
@@ -43,7 +43,7 @@
           h5 Figura 5.
           span Herramientas de edición
         figure
-          img.mb-2(src='@/assets/curso/temas/t2/fig5.png', alt='La imagen presenta un cuadro donde se mencionan los diferentes tipos de herramientas que existen en un software para edición de fotografía: herramientas de selección, herramientas para cortas y sectorizar, herramientas de medida, herramientas para retocar, herramientas de pintura, herramientas de dibujo y texto, herramientas de navegación, selector de color y máscaras.')
+          img.mb-3(src='@/assets/curso/temas/t2/fig5.png', alt='La imagen presenta un cuadro donde se mencionan los diferentes tipos de herramientas que existen en un software para edición de fotografía: herramientas de selección, herramientas para cortar y sectorizar, herramientas de medida, herramientas para retocar, herramientas de pintura, herramientas de dibujo y texto, herramientas de navegación, selector de color y máscaras.')
         figcaption Fuente: SENA
 
     p.mb-5 A continuación, se detallan los diferentes tipos de herramientas:
@@ -60,7 +60,7 @@
             SlyderA.p-4(tipo="b")
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p El marco rectangular es una de las herramientas de selección y como su nombre lo indica cubre áreas de forma rectangular, en algunos #[em software] de edición al oprimir en el teclado “#[em shift]” y arrastrar la selección esta se hace en forma de cuadrado. En este menú también encontramos un marco elíptico y en algunos #[em software] un maco de fila y de columna. 
+                  p El marco rectangular es una de las herramientas de selección y, como su nombre lo indica, cubre áreas de forma rectangular, en algunos #[em software] de edición al oprimir en el teclado “#[em shift]” y arrastrar la selección, esta se hace en forma de cuadrado. En este menú también encontramos un marco elíptico y en algunos #[em software] un maco de fila y de columna. 
                 .col-md-4.col-lg-3.col-9
                   img(src='@/assets/curso/temas/t2/slider1-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
@@ -91,7 +91,7 @@
           .tarjeta.tarjeta--blanca.p-4
             .row.justify-content-center.align-items-center.py-lg-5
               .col-md-8
-                p La herramienta recortar sirve para cambiar el tamaño del área en la que estamos trabajando. Sector sirve para crear un corte imaginario que se va a materializar cuando exportemos una imagen grande en muchas pequeñas según los “n” sectores que la dividamos. Seleccionar sector sirve para lo indicado por su nombre. 
+                p La herramienta recortar sirve para cambiar el tamaño del área en la que estamos trabajando. Sector sirve para crear un corte imaginario que se va a materializar cuando exportemos una imagen grande en muchas pequeñas según los “n” sectores en los que la dividamos. Seleccionar sector sirve para lo indicado por su nombre. 
               .col-md-4.col-lg-3.col-9
                 img(src='@/assets/curso/temas/t2/slider2-1.png', alt='')
 
@@ -107,7 +107,7 @@
           .tarjeta.tarjeta--blanca.p-4
             .row.justify-content-center.align-items-center.py-lg-5
               .col-md-8
-                p La herramienta cuentagotas sirve para obtener el color exacto de un píxel en la imagen, muestra de color toma hasta cuatro puntos como guía, regla nos da la medida en pixeles de un punto a otro y su grado de inclinación, notas como su ícono lo presenta son hijitas como los “#[em post it]” para escribir recordatorios y recuento nos sirve para colocar números guía en el área de trabajo. 
+                p La herramienta cuentagotas sirve para obtener el color exacto de un píxel en la imagen, muestra de color toma hasta cuatro puntos como guía, regla nos da la medida en píxeles de un punto a otro y su grado de inclinación, notas, como su ícono lo presenta son hijitas como los “#[em post it]” para escribir recordatorios y recuento nos sirve para colocar números guía en el área de trabajo. 
               .col-md-4.col-lg-3.col-9
                 img.w-75.m-auto(src='@/assets/curso/temas/t2/slider3-1.png', alt='')
 
@@ -134,7 +134,7 @@
                   img(src='@/assets/curso/temas/t2/slider4-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p El borrador tiene tres clases diferentes, el normal que borra todo excepto las capas de fondo, esto debido a que esas capas generalmente están protegidas, para eso está el borrador de fondos. Por últimos está el borrador mágico que borra similar a como funciona la varita mágica, toma un color y lo desaparece. 
+                  p El borrador tiene tres clases diferentes, el normal, que borra todo excepto las capas de fondo, esto debido a que esas capas generalmente están protegidas, para eso está el borrador de fondos. Por último, está el borrador mágico que borra similar a como funciona la varita mágica, toma un color y lo desaparece. 
                 .col-md-4.col-lg-3.col-9
                   img(src='@/assets/curso/temas/t2/slider4-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
@@ -161,7 +161,7 @@
             SlyderA.p-4(tipo="b")
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p Pincel como su nombre lo indica sirve para esparcir un color como si fuera una pintura, lápiz sirve para lo mismo pero el trazo es más tosco, sustitución de color es un pincel que da el tono del nuevo color, conservando las sombras luminosas de la imagen original, finalmente el pincel mezclador actúa como un gotero tomando una parte de la imagen y luego la difumina con el resto de la imagen. 
+                  p Pincel, como su nombre lo indica sirve para esparcir un color como si fuera una pintura, lápiz sirve para lo mismo, pero el trazo es más tosco, sustitución de color es un pincel que da el tono del nuevo color, conservando las sombras luminosas de la imagen original, finalmente el pincel mezclador actúa como un gotero tomando una parte de la imagen y luego la difumina con el resto de la imagen. 
                 .col-md-4.col-lg-3.col-9
                   img(src='@/assets/curso/temas/t2/slider5-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
@@ -203,7 +203,7 @@
                   img(src='@/assets/curso/temas/t2/slider6-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p Entre las herramientas de dibujo tenemos las opciones de crear, rectángulo, rectángulo con las esquinas redondeadas, elipse, polígonos con diferentes números de lados o estrellas de igual forma, líneas y varias formas personalizadas. 
+                  p Entre las herramientas de dibujo tenemos las opciones de crear rectángulo, rectángulo con las esquinas redondeadas, elipse, polígonos con diferentes números de lados o estrellas de igual forma, líneas y varias formas personalizadas. 
                 .col-md-4.col-lg-3.col-9
                   img(src='@/assets/curso/temas/t2/slider6-4.png', alt='')
 
@@ -225,17 +225,17 @@
                   img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p Al igual que las herramientas de rotación y demás 3D, estas solo funcionan en modelos tridimensionales. Hay herramientas para rotar, desplazar, panorámicas, recorridos y zoom; todos movimientos de la cámara.  
+                  p Al igual que las herramientas de rotación y demás 3D, estas solo funcionan en modelos tridimensionales. Hay herramientas para rotar, desplazar, panorámicas, recorridos y #[em zoom]; todos movimientos de la cámara.  
                 .col-md-4.col-lg-3.col-9
                   img(src='@/assets/curso/temas/t2/slider7-2.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p La herramienta mano, se utiliza para desplazarse en la pantalla cuando tenemos zoom muy grande, por ejemplo, cuando la vista de la imagen es tan grande que no cabe en la pantalla. Rotar vista es una herramienta que no todos los programas tienen, pero es muy curiosa, ya que rota el escenario completamente, sin alterar su derecho, pues lo hace solo como una visualización.  
+                  p La herramienta mano, se utiliza para desplazarse en la pantalla cuando tenemos #[em zoom] muy grande, por ejemplo, cuando la vista de la imagen es tan grande que no cabe en la pantalla. Rotar vista es una herramienta que no todos los programas tienen, pero es muy curiosa, ya que rota el escenario completamente, sin alterar su derecho, pues lo hace solo como una visualización.  
                 .col-md-4.col-lg-3.col-9
                   img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-3.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p Esta es una de las herramientas fundamentales en el trabajo de ediciones de imágenes, pues nos permite acercarnos a las zonas en las que queremos lograr un detalle más fino, evitando quedarnos ciegos o golpear nuestro rostro con el monitor del computador. 
+                  p La herramienta #[em zoom] es una de las herramientas fundamentales en el trabajo de ediciones de imágenes, pues nos permite acercarnos a las zonas en las que queremos lograr un detalle más fino, evitando quedarnos ciegos o golpear nuestro rostro con el monitor del computador. 
                 .col-md-4.col-lg-3.col-9
                   img.w-75.m-auto(src='@/assets/curso/temas/t2/slider7-4.png', alt='')
 

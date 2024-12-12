@@ -7,14 +7,14 @@
         span 5
       h1 Psicología del color
 
-    p.mb-4 La percepción de los colores es un efecto físico que se genera en el ojo respecto a las distintas ondas del espectro electromagnético y la interpretación que se genera en el cerebro. Los colores son fundamentales y están siempre presentes desde el momento que usted se levanta en la mañana hasta que se acuesta en la noche; están para donde quiera que se mire y en cada cosa que se conoce, incluso la ausencia de color tiene nombre, el color negro. En la publicidad y el mercadeo los colores son muy tenidos en cuenta, ya que esto puede ayudar a una marca a despertar ciertas sensaciones en sus posibles clientes. Aunque la psicología del color está sujeta a la cultura, se pueden tener en cuenta los siguientes aspectos generales.
+    p.mb-4 La percepción de los colores es un efecto físico que se genera en el ojo respecto a las distintas ondas del espectro electromagnético y la interpretación que se genera en el cerebro. Los colores son fundamentales y están siempre presentes desde el momento en que usted se levanta en la mañana hasta que se acuesta en la noche; están para donde quiera que se mire y en cada cosa que se conoce, incluso la ausencia de color tiene nombre, el color negro. En la publicidad y el mercadeo los colores son muy tenidos en cuenta, ya que esto puede ayudar a una marca a despertar ciertas sensaciones en sus posibles clientes. Aunque la psicología del color está sujeta a la cultura, se pueden tener en cuenta los siguientes aspectos generales.
 
     SlyderF.fle-circulo(columnas="col-lg-6" data-aos="fade-down")
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--rojo.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Rojo
-        p El rojo es el color adecuado para comunicar alegría y entusiasmo, puede significar también pasión, emoción, acción, agresividad, peligro. El rojo aumenta la tensión muscular, el deseo y la excitación, activa la circulación y por ende acelera las pulsaciones para elevar la presión arterial, acelera la respiración, mejora las funciones hepáticas. Su visibilidad es muy alta por lo tanto se utiliza mucho en avisos importantes, prohibiciones y llamados de precaución. En publicidad se utiliza el rojo para provocar sentimientos eróticos, símbolos como labios o uñas rojas, zapatos, vestidos, etc., son arquetipos en la estimulación visual sugerente.
+        p El rojo es el color adecuado para comunicar alegría y entusiasmo, puede significar también pasión, emoción, acción, agresividad, peligro. El rojo aumenta la tensión muscular, el deseo y la excitación, activa la circulación y por ende acelera las pulsaciones para elevar la presión arterial, acelera la respiración, mejora las funciones hepáticas. Su visibilidad es muy alta, por lo tanto se utiliza mucho en avisos importantes, prohibiciones y llamados de precaución. En publicidad se utiliza el rojo para provocar sentimientos eróticos, símbolos como labios o uñas rojas, zapatos, vestidos, etc., son arquetipos en la estimulación visual sugerente.
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--naranja.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
@@ -26,7 +26,7 @@
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Amarillo
         p El amarillo es asociado con juventud, risa, placer, se debe recordar que es el color del sol por lo tanto se asocia con calor, buen humor y alegría. Es el más sutil de los colores cálidos, actúa como un energizante positivo que no llega a ser agresivo.
-        p Dando fuerza al sistema digestivo y a los músculos, el amarillo sugiere la sensación de entrar en calor, estimula la actividad mental, la inspiración creativa y con frecuencia se le asocia con la comida. Estimula la vista, actúa sobre el sistema nervioso e incluso despierta el intelecto. Los tonos cálidos de amarillo pueden incluso calmar ciertos estados de excitación nerviosa
+        p Dando fuerza al sistema digestivo y a los músculos, el amarillo sugiere la sensación de entrar en calor, estimula la actividad mental, la inspiración creativa y con frecuencia se le asocia con la comida. Estimula la vista, actúa sobre el sistema nervioso e incluso despierta el intelecto. Los tonos cálidos de amarillo pueden incluso calmar ciertos estados de excitación nerviosa.
         p.mb-0 El amarillo es muy utilizado en recepciones, salones sociales y cuartos de estudio; por su característica de generar calor es mejor utilizarlo en ambientes de clima frío. Los colores basados en la gama de los amarillos son en su mayor parte neutros y fáciles de utilizar, el uso excesivo del amarillo crea una sensación de informalidad, este es el color más difícil de ver para el ojo humano.
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--verde.mb-4
@@ -37,8 +37,8 @@
         .color.color--azul.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Azul
-        p Es un color que da la sensación de distante, se relaciona con la confianza, reserva, armonía, afecto, amistad, fidelidad y amor. La sensación que logra este color eleva la presión de la sangre por contracción de las arterias. Para las personas emotivas este color puede resultar más tranquilizante que el color verde.
-        p Abre la mente brindando paz y tranquilidad a las personas, favorece la paciencia, amabilidad y serenidad, aunque una sobre exposición al mismo puede causar también fatiga o depresión. En el mundo de la publicidad lo asocian con productos de tecnología, limpieza o también objetos de alta precisión. Este es un color muy masculino, recibido de buen grado por los hombres, razón por la que en general los artículos de este tipo de mercado lo utilizan bastante. Poco recomendado para productos de comida, pues este color da la sensación de poco apetito.
+        p Es un color que da la sensación de distante, se relaciona con la confianza, reserva, armonía, afecto, amistad, fidelidad y amor. La sensación que logra este color eleva la presión de la sangre por contracción de las arterias. Para las personas emotivas, este color puede resultar más tranquilizante que el color verde.
+        p Abre la mente brindando paz y tranquilidad a las personas, favorece la paciencia, amabilidad y serenidad, aunque una sobrexposición al mismo puede causar también fatiga o depresión. En el mundo de la publicidad lo asocian con productos de tecnología, limpieza o también objetos de alta precisión. Este es un color muy masculino, recibido de buen grado por los hombres, razón por la que en general los artículos de este tipo de mercado lo utilizan bastante. Poco recomendado para productos de comida, pues este color da la sensación de poco apetito.
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--morado.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
@@ -49,7 +49,7 @@
         .color.color--blanco.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Blanco
-        p El blanco en nuestra cultura se relaciona con la inocencia, paz, divinidad, estabilidad, calma, armonía e inocencia, aunque por ejemplo para los orientales indica la muerte. Este color brinda la sensación de limpieza y claridad, ayuda a alejarse de los sombrío y triste, representa el amor divino y la humildad del ser.
+        p El blanco en nuestra cultura se relaciona con la inocencia, paz, divinidad, estabilidad, calma, armonía e inocencia, aunque por ejemplo para los orientales indica la muerte. Este color brinda la sensación de limpieza y claridad, ayuda a alejarse de lo sombrío y triste, representa el amor divino y la humildad del ser.
         p Este color nutre la imaginación y la creatividad, en publicidad es generalmente asociado con la frescura y la limpieza, y en el mundo de los artículos de alta tecnología se relaciona con la simplicidad y el minimalismo. También se le asocia con hospitales, médicos y esterilidad. Por sus efectos también se relaciona con productos de dieta, pérdida de peso y lácteos.
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--negro.mb-4

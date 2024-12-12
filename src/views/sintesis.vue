@@ -8,7 +8,7 @@
       .col-lg-12.mb-5
         .tarjeta.bg1.p-2.p-md-4.py-md-5
           figure.py-md-5
-            img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama de flujo consta de dos temas principales: producción de imágenes: digitalización y edición, teoría del color; y elementos básicos del diseño: conceptuales, visuales, de relación, prácticos e interrelación de formas.")
+            img(src="@/assets/curso/temas/sintesis.svg", alt="el diagrama de flujo consta de dos temas principales: producción de imágenes: digitalización y edición, teoría del color, incluyendo modelos del color y contraste y psicología del color; y elementos básicos del diseño: conceptuales, visuales, de relación, prácticos e interrelación de formas.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

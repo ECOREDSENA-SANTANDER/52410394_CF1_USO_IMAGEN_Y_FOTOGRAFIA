@@ -17,7 +17,7 @@ export default {
         'Producción de la imagen, teoría del color y elementos básicos del diseño',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Validar el conocimiento adquirido sobre los procesos de producción de imágenes y los elementos básicos del diseño. ',
+        '<b>Objetivo:</b> validar el conocimiento adquirido sobre los procesos de producción de imágenes y los elementos básicos del diseño. ',
       barajarPreguntas: false,
       preguntas: [
         {
@@ -79,7 +79,7 @@ export default {
         {
           id: 5,
           texto:
-            'Los colores complementarios son aquellos que se encuentran separados por un color común en el círculo cromático, por esta razón son muy similares entre ellos y de allí por qué armonizan tan bien.  ',
+            'Los colores complementarios son aquellos que se encuentran separados por un color común en el círculo cromático, por esta razón son muy similares entre ellos y de allí el porqué armonizan tan bien.  ',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [

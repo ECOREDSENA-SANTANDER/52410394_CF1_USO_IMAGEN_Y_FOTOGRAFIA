@@ -23,7 +23,7 @@
           .col-9.ps-0
             .bg-color-acento-contenido.w-fit.py-1.px-4
               h4.text-dark.mb-0 Colores luz
-        p.mb-0.text-dark Como lo indica su nombre, estos colores son producidos por una fuente de luz. Este es un modelo de color aditivo ya que un haz de luz se suma a otro para generar nuevos tonos de color. El modelo más reconocido es el RGB que por sus iniciales en inglés contiene los colores #[em red, green and blue] (rojo, verde y azul). Cuando se mezclan estos colores en igual proporción se obtiene el color blanco y en contraposición, la ausencia total de ellos genera el color negro. Este sistema de color es el empleado por los televisores, monitores en los computadores, reproductores de audio y video, consolas de videojuegos, proyectores, teléfonos celulares, cámaras digitales, sistemas de luces y todo tipo de pantallas que generen imagen a partir de luz.
+        p.mb-0.text-dark Como lo indica su nombre, estos colores son producidos por una fuente de luz. Este es un modelo de color aditivo, ya que un haz de luz se suma a otro para generar nuevos tonos de color. El modelo más reconocido es el RGB, que por sus iniciales en inglés, contiene los colores #[em red, green and blue] (rojo, verde y azul). Cuando se mezclan estos colores en igual proporción, se obtiene el color blanco y en contraposición, la ausencia total de ellos genera el color negro. Este sistema de color es el empleado por los televisores, monitores en los computadores, reproductores de audio y video, consolas de videojuegos, proyectores, teléfonos celulares, cámaras digitales, sistemas de luces y todo tipo de pantallas que generen imagen a partir de luz.
       .col-md.tarjeta.bg4.p-4.p-lg-5
         .row.align-items-end.mb-4
           .col-3.pe-0
@@ -44,17 +44,17 @@
     TabsA.color-acento-botones(data-aos="fade-down")
       .tarjeta.bg5.p-4(titulo="El color en sí mismo")
         h4 El color en sí mismo
-        p.mb-0 Este contraste se obtiene al combinar los colores puros o colores primarios. Cuando el contraste se realiza con el amarillo, azul y rojo, es el contraste más fuerte que se puede hacer. A medida que se incorporan colores secundarios como el verde, el naranja o el morado este contraste baja su fuerza, y así con los colores terciarios o demás tonos de color. Para hacer un correcto uso de este tipo de contraste se requiere al menos utilizar tres colores que sean marcadamente diferenciados.
+        p.mb-0 Este contraste se obtiene al combinar los colores puros o colores primarios. Cuando el contraste se realiza con el amarillo, azul y rojo, es el contraste más fuerte que se puede hacer. A medida que se incorporan colores secundarios como el verde, el naranja o el morado, este contraste baja su fuerza, y así con los colores terciarios o demás tonos de color. Para hacer un correcto uso de este tipo de contraste se requiere al menos utilizar tres colores que sean marcadamente diferenciados.
       .tarjeta.bg5.p-4(titulo="Claro – oscuro")
         h4 Claro – oscuro
         p.mb-0 El blanco y el negro son los tonos más fuertes en la gama cromática, son bastante expresivos y deben utilizarse con especial cuidado, son polos opuestos pero entre ellos se extiende toda una gama de tonos de grises. Así mismo, se pueden obtener diferentes tonalidades de algún color determinado manejando de esta manera un contraste claro – oscuro.
-      .tarjeta.bg5.p-4(titulo="Caliente – frio")
-        h4 Caliente – frio
+      .tarjeta.bg5.p-4(titulo="Caliente – frío")
+        h4 Caliente – frío
         p Este contraste se nombra así por la sensación de temperatura que se genera en el cerebro al ver los colores. La clasificación de ellos se hace directamente en el círculo cromático, los colores cálidos van desde el color rojo puro hasta el amarillo verdoso, mientras que los colores fríos van desde el color verde hasta el violeta rojizo.
         p.mb-0 Para lograr este tipo de contraste se suele escoger un tono de color, ubicar sus dos consecutivos a lado y lado en el círculo cromático y finalmente emplear también el opuesto del color elegido.
       .tarjeta.bg5.p-4(titulo="Complementarios")
         h4 Complementarios
-        p.mb-0 Este tipo de contraste es uno de los más utilizados y para emplearlo también se recurre al círculo cromático, ya que allí se presenta un color con su respectivo complementario y se puede generar una escala de tonos entre ellos. Al ser totalmente opuestos son los que mejor se complementan, pero se debe tener cuidado no mezclarlos solos en iguales proporciones pues es tan fuerte el contraste que puede parecer que compiten entre ellos.
+        p.mb-0 Este tipo de contraste es uno de los más utilizados y para emplearlo también se recurre al círculo cromático, ya que allí se presenta un color con su respectivo complementario y se puede generar una escala de tonos entre ellos. Al ser totalmente opuestos son los que mejor se complementan, pero se debe tener cuidado de no mezclarlos solos en iguales proporciones pues es tan fuerte el contraste que puede parecer que compiten entre ellos.
       .tarjeta.bg5.p-4(titulo="Simultáneo")
         h4 Simultáneo
         p.mb-0 Este es un fenómeno que se genera cuando se utiliza un mismo color con otros muy diferentes entre ellos. El efecto óptico que se percibe tiende a buscar un equilibrio. Más que un efecto real de colores es una sensación al ver la mezcla cromática entre ellos. Lo curioso de este contraste es que los colores pierden su identidad propia y crean nuevos efectos.

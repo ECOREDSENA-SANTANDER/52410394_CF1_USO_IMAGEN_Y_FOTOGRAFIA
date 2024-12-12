@@ -28,12 +28,12 @@
       .col-lg-5.col-md-10.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-primario.mb-4
           h5 Figura 6.
-          span Círculo Cromático
+          span Círculo cromático
         figure
-          img.mb-3(src='@/assets/curso/temas/t3/fig6.svg', alt='La figura presenta el circulo cromático, se señalan los colores fríos y los colores cálidos.')
+          img.mb-3(src='@/assets/curso/temas/t3/fig6.svg', alt='La figura presenta el círculo cromático, se señalan los colores fríos y los colores cálidos.')
         figcaption Fuente: SENA
       .col-lg-7(data-aos="fade-left")
-        p El círculo cromático también define los colores fríos y los colores cálidos. Los primeros se encuentran situados en la gama de los azules y los verdes, ya que estos colores son predominantes en climas fríos y utilizan en diseños en los que se quiera denotar calma, elegancia y sobriedad. Los colores cálidos están ubicados en la gama de los rojos y amarillos. Se encuentran en climas cálidos y son sinónimos de fuerza, viveza. Se usan bastante para llamar la atención sobre aspectos importantes que necesiten ser resaltados.
+        p El círculo cromático también define los colores fríos y los colores cálidos. Los primeros se encuentran situados en la gama de los azules y los verdes, ya que estos colores son predominantes en climas fríos y se utilizan en diseños en los que se quiera denotar calma, elegancia y sobriedad. Los colores cálidos están ubicados en la gama de los rojos y amarillos. Se encuentran en climas cálidos y son sinónimos de fuerza, viveza. Se usan bastante para llamar la atención sobre aspectos importantes que necesiten ser resaltados.
         p En cuanto al manejo del color para el multimedia es recomendable no usar muchos colores al tiempo, por lo general se escoge un color, del cual se desprenden dos tonos más que sean cercanos en el círculo. Finalmente se busca otro color diferente para integrar la composición cromática; este puede ser un color complementario. Cuando se escoge una combinación de este tipo, se debe manejar el complementario con sobriedad y no ponerlo a competir con los demás tonos en pantalla, idealmente este puede usarse como referencia para puntos clave en la pantalla como botones. Cuando no se tiene idea de cómo combinar el color se puede recurrir a aplicaciones en Internet donde se muestran diferentes gamas de un color y los mezclan de forma armónica en variadas combinaciones.
         
     .row.justify-content-center.mb-5(data-aos="fade-down")
@@ -50,7 +50,7 @@
       img(src='@/assets/curso/temas/t1/subt.png', alt='')
       h3.p-2.pe-5.mb-0 Armonía de color
 
-    p Una armonía es una coordinación de diferentes elementos como un todo en una composición, es decir, una sección del espectro o gama determinada para emplear en cualquier composición gráfica. Para entender mejor este concepto es necesario tener cuenta el círculo cromático. Las armonías más utilizadas son las siguientes.
+    p Una armonía es una coordinación de diferentes elementos como un todo en una composición, es decir, una sección del espectro o gama determinada para emplear en cualquier composición gráfica. Para entender mejor este concepto es necesario tener en cuenta el círculo cromático. Las armonías más utilizadas son las siguientes.
     p.mb-4 Haga clic sobre cada número para ver la explicación de cada armonía.
 
     ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-down")
@@ -65,13 +65,13 @@
         p.mb-0 Una triada son tres colores separados entre ellos 120º, son equidistantes entre sí y en ocasiones pueden incluir también su color más cercano formando gamas hasta de 5 colores para una misma composición.
       .tarjeta.bg2.p-3.p-lg-4(x="49%" y="12%" numero="+")
         h4.mb-2 Análogos
-        p.mb-0 Los colores análogos son aquellos que se encuentran separados por un color común en el círculo cromático, por esta razón son muy similares entre ellos y de allí el por qué armonizan tan bien.
+        p.mb-0 Los colores análogos son aquellos que se encuentran separados por un color común en el círculo cromático, por esta razón son muy similares entre ellos y de allí el porqué armonizan tan bien.
       .tarjeta.bg2.p-3.p-lg-4(x="74%" y="14%" numero="+")
         h4.mb-2 Complementario cercano
         p.mb-0 Complementario cercano o dividido es una mezcla en la que se escoge un color y en vez de tomar su complementario se toman sus dos vecinos próximos en el círculo cromático. Este contraste se deja trabajar muy bien, ya sea utilizando los tres colores o solamente dos de ellos.
       .tarjeta.bg2.p-3.p-lg-4(x="94%" y="14%" numero="+")
         h4.mb-2 Tétrada
-        p.mb-0 Una tétrada o mezcla de dobles complementarios es una asociación más compleja, ya que se utilizan un par de análogos junto a sus respectivos complementarios. Marca un contraste fuerte y definido, pero hay que balancear muy bien la cantidad de los tonos para no generar un choque visual muy fuerte. Es importante escoger solo un tono como el color dominante.
+        p.mb-0 Una tétrada o mezcla de dobles complementarios es una asociación más compleja, ya que se utiliza un par de análogos junto a sus respectivos complementarios. Marca un contraste fuerte y definido, pero hay que balancear muy bien la cantidad de los tonos para no generar un choque visual muy fuerte. Es importante escoger solo un tono como el color dominante.
 
     p Los colores tienen un gran papel en la vida cotidiana, por ejemplo, el rojo ordena detenerse en un semáforo, la señal amarilla previene de un riesgo en la carretera, la bombillita verde indica que el computador está prendido, el azul claro de un cielo en un hermoso y soleado día o el azul oscuro en un día de lluvia, incluso el hermoso y multicolor arcoíris compuesto por toda la gama cromática desde el rojo hasta el violeta pasando por los amarillos, verdes y azules.
     p Hay ciertos colores que en informática son muy tradicionales: el rojo indica cuando se cometió un error, el amarillo se usa para prevenir acerca de una situación que puede generar riesgo y el verde es muy utilizado cuando se trata de aprobar o aceptar un proceso. De esta manera, el significado o la interpretación que se le da al color es una cuestión muy cultural, por ello lo mejor es usarlo como herramienta que ayude a contextualizar armónicamente toda la composición. Este trabajo es una competencia específica de los diseñadores gráficos; ellos tienen todos los conceptos necesarios para definir la gama cromática más adecuada a este tipo de aplicaciones.

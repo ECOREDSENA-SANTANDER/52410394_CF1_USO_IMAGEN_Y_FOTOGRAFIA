@@ -149,8 +149,7 @@ export default {
       tema: 'Teoría del color',
       referencia: 'Johannes Itten. (s,f) Teoría del color.',
       tipo: 'Artículo',
-      link:
-        'https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/semillas/52410394_1_VIRTUAL/Material/Apoyo/Actividad_Aprendizaje1/La%20teori%CC%81a%20del%20color.pdf',
+      descarga: '/downloads/La_teoria_del_color.pdf',
     },
   ],
   glosario: [
@@ -173,7 +172,7 @@ export default {
     },
     {
       termino: 'Megapíxel (Mpx)',
-      significado: 'Equivale a un millón de pixeles.',
+      significado: 'Equivale a un millón de píxeles.',
     },
     {
       termino: 'Píxel',
