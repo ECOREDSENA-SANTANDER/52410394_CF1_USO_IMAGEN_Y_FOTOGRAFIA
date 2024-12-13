@@ -252,7 +252,7 @@
             SlyderA.p-4(tipo="b")
               .row.justify-content-center.align-items-center.pt-lg-5
                 .col-md-8
-                  p En este panel se configuran los colores frontales y de fondo. Al hacer clic en ellos, aparece el selector de color para cambiarlos, al hacer clic en la flecha curva (X) los invierte de posición y al hacer clic en los pequeños cuadros (D) de la esquina, sin importar los colores que haya volvemos a los predeterminados. 
+                  p En este panel se configuran los colores frontal y de fondo. Al hacer clic en ellos, aparece el selector de color para cambiarlos, al hacer clic en la flecha curva (X) los invierte de posición y al hacer clic en los pequeños cuadros (D) de la esquina, sin importar los colores que haya volvemos a los predeterminados. 
                 .col-md-4.col-lg-3.col-9
                   img.w-75.m-auto(src='@/assets/curso/temas/t2/slider8-1.png', alt='')
               .row.justify-content-center.align-items-center.pt-lg-5

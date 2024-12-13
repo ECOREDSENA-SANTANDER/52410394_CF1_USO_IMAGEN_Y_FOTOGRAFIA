@@ -32,7 +32,7 @@
         .color.color--verde.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
           h4.mb-0 Verde
-        p Este color siempre se asocia con la esperanza, también puede emplearse para expresar naturaleza, juventud, deseo, descanso y equilibrio. Es un color sedante, hipnótico, resulta muy útil para tratar casos de excitabilidad nerviosa, insomnio y fatiga, disminuye la presión sanguínea bajando el ritmo cardiaco, dilata los vasos capilares aliviando neuralgias y jaquecas, ayuda al reposo y fortifica la vista. El verde oscuro tiene una connotación social ligada al dinero. Este color se utiliza mucho en productos médicos y/o medicinas, por su cercanía a la naturaleza también se utiliza para promocionar artículos de jardinería, turismo, actividades al aire libre o productos ecológicos en general.
+        p Este color siempre se asocia con la esperanza, también puede emplearse para expresar naturaleza, juventud, deseo, descanso y equilibrio. Es un color sedante, hipnótico, resulta muy útil para tratar casos de excitabilidad nerviosa, insomnio y fatiga, disminuye la presión sanguínea bajando el ritmo cardiaco, dilata los vasos capilares aliviando neuralgias y jaquecas, ayuda al reposo y fortifica la vista. El verde oscuro tiene una connotación social ligada al dinero. Este color se utiliza mucho en productos médicos y / o medicinas, por su cercanía a la naturaleza también se utiliza para promocionar artículos de jardinería, turismo, actividades al aire libre o productos ecológicos en general.
       .tarjeta.bg2.p-4.px-lg-5.text-center
         .color.color--azul.mb-4
         .bg-color-acento-contenido.w-fit.m-auto.py-1.px-5.mb-3
